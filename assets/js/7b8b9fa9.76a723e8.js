@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphoton_website=self.webpackChunkphoton_website||[]).push([[366],{4174:t=>{t.exports=JSON.parse('{"title":"Introduction","description":"Get started to know PhotonLibOS.","slug":"/category/introduction","permalink":"/docs/category/introduction","navigation":{"next":{"title":"What is Photon","permalink":"/docs/introduction/what-is-photon"}}}')}}]);
