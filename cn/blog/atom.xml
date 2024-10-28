@@ -12,7 +12,8 @@
         <id>https://photonlibos.github.io/cn/blog/stackful-coroutine-made-fast</id>
         <link href="https://photonlibos.github.io/cn/blog/stackful-coroutine-made-fast"/>
         <updated>2024-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<iframe src="/blog-20241014/stackful-coroutine-made-fast.html" width="100%" height="30000"></iframe>]]></content>
+        <summary type="html"><![CDATA[Download pdf]]></summary>
+        <content type="html"><![CDATA[<a href="https://github.com/alibaba/PhotonLibOS/blob/main/doc/static/blog-20241014/Stackful_Coroutine_Made_Fast.pdf" target="_blank" rel="noopener noreferrer">Download pdf</a><iframe src="/blog-20241014/stackful-coroutine-made-fast.html" width="100%" height="30000"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to run Photon on top of DPDK]]></title>
