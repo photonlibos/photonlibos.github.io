@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphoton_website=self.webpackChunkphoton_website||[]).push([[1330],{3942:e=>{e.exports=JSON.parse('{"label":"F-Stack","permalink":"/blog/tags/f-stack","allTagsPath":"/blog/tags","count":1}')}}]);

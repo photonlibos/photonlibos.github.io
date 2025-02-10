@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphoton_website=self.webpackChunkphoton_website||[]).push([[8804],{94:e=>{e.exports=JSON.parse('{"permalink":"/cn/blog/tags/dpdk","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

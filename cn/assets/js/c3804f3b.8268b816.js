@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphoton_website=self.webpackChunkphoton_website||[]).push([[4956],{2944:e=>{e.exports=JSON.parse('{"permalink":"/cn/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphoton_website=self.webpackChunkphoton_website||[]).push([[7224],{4991:e=>{e.exports=JSON.parse('{"label":"DPDK","permalink":"/cn/blog/tags/dpdk","allTagsPath":"/cn/blog/tags","count":1}')}}]);
